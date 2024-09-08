@@ -9,4 +9,4 @@ Este arquivo vem para descrever os conhecimentos aprendidos na matéria de proje
 2.[Gráfico](https://github.com/OliverBryanCavalcante/Exemplos-do-Office/blob/main/Projeto%20integrador%202%20.png)
 
 
-3.[SLIDE](https://github.com/OliverBryanCavalcante/Exemplos-do-Office/blob/main/JOILSON.pptx)
+3.[Power Point](https://github.com/OliverBryanCavalcante/Exemplos-do-Office/blob/main/JOILSON.pptx)
