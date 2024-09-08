@@ -11,4 +11,4 @@ Este arquivo vem para descrever os conhecimentos aprendidos na matéria de proje
 
 3.[Power Point](https://github.com/OliverBryanCavalcante/Exemplos-do-Office/blob/main/JOILSON.pptx)
 
-4.[Documento Word]()
+4.[Documento Word](https://github.com/OliverBryanCavalcante/Exemplos-do-Office/blob/main/Projeto-integrador%202.docx)
