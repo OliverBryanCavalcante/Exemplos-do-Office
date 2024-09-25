@@ -13,4 +13,4 @@ Este arquivo vem para descrever os conhecimentos aprendidos na matéria de proje
 
 4.[docx](https://github.com/OliverBryanCavalcante/Exemplos-do-Office/blob/main/Projeto-integrador%202.docx)
 
-<img src=""
+<img src="IMAGEM.png" alt="Gráfico">
